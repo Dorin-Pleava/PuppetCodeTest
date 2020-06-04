@@ -24,3 +24,12 @@ mod 'puppetlabs-mysql', '10.5.0'
 mod 'puppet_repo',
    :git    => 'https://github.com/puppetlabs/puppet.git',
    :branch => 'master'
+mod 'puppet_repo2',
+   :git    => 'https://github.com/kubernetes/kubernetes.git',
+   :branch => 'master'
+mod 'puppet_repo3',
+   :git    => 'https://github.com/kubernetes/kubernetes.git',
+   :branch => 'master'
+mod 'puppet_repo4',
+   :git    => 'https://github.com/puppetlabs/puppet.git',
+   :branch => 'master'
